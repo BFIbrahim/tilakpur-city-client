@@ -25,6 +25,7 @@ const Navigation = () => {
                             tabIndex={0}
                             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
                             <li className='font-bold text-black md:text-white'><NavLink to='/services'>সার্ভিস সমুহ</NavLink></li>
+                            <li className='font-bold text-black md:text-white'><NavLink to='/photos'>ছবি</NavLink></li>
                             <li className='font-bold text-black md:text-white'><NavLink to="/opinions">মতামত</NavLink></li>
                             <li className='font-bold text-black md:text-white'><NavLink to="/developer">ডেভেলপার</NavLink></li>
                         </ul>
@@ -34,6 +35,7 @@ const Navigation = () => {
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
                         <li className='font-bold text-black md:text-white'><NavLink to='/services'>সার্ভিস সমুহ</NavLink></li>
+                        <li className='font-bold text-black md:text-white'><NavLink to='/photos'>ছবি</NavLink></li>
                         <li className='font-bold text-black md:text-white'><NavLink to="/opinions">মতামত</NavLink></li>
                         <li className='font-bold text-black md:text-white'><NavLink to="/developer">ডেভেলপার</NavLink></li>
                     </ul>

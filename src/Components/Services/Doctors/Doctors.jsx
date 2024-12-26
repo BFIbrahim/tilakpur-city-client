@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Developer = () => {
+const Doctors = () => {
     return (
         <div>
-            Hello
+            Doctors
         </div>
     );
 };
 
-export default Developer;
+export default Doctors;

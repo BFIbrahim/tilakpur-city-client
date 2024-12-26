@@ -10,16 +10,14 @@ import Home from './Components/Home/Home/Home';
 import Service from './Components/Services/Service/Service';
 import Developer from './Components/Services/Developer/Developer';
 import Opinions from './Components/Services/Opinion/Opinion';
+import Photos from './Components/Photos/photos';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Home></Home>,
     children: [
-      {
-        path: '/services',
-        element: <Service></Service>
-      },
+      
       {
         path: "/opinions",
         element: <Opinions></Opinions>
@@ -27,8 +25,16 @@ const router = createBrowserRouter([
       {
         path: "/developer",
         element: <Developer></Developer>
+      },
+      {
+        path: "/photos",
+        element: <Photos></Photos>
       }
     ]
+  },
+  {
+    path: '/services',
+    element: <Service></Service>,
   },
 ]);
 

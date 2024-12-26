@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/yFJCB7q/doctor-921059.png",
+      "title": "ডাক্তার"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/9c7WCGC/medical-13161661.png",
+      "title": "ডায়াগনস্টিক"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/gdbHVHN/blood-bag-3479335.png",
+      "title": "রক্ত"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/LkpD88T/firetruck-7072045.png",
+      "title": "ফায়ার সার্ভিস"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/xsLXzFb/office-building-2098316.png",
+      "title": "বাসা ভারা"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/BtsXbYY/delivery-man-3929115.png",
+      "title": "কুরিয়ার"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/ygS7mTf/online-shopping-3081559.png",
+      "title": "শপিং"
+    }
+  ]  
